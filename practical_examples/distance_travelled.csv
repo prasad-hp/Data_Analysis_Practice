@@ -1,0 +1,9 @@
+cars,days,cumulative_distance
+Car1,Day1,50
+Car1,Day2,100
+Car1,Day3,200
+Car2,Day1,0
+Car3,Day1,0
+Car3,Day2,50
+Car3,Day3,50
+Car3,Day4,100
