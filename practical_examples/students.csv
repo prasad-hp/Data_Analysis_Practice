@@ -1,0 +1,5 @@
+StudentID,Name,Maths,Science,English
+S001,Alice,85,78,92
+S002,Bob,NaN,88,75
+S003,Charlie,82,NaN,79
+S004,Daisy,91,89,94

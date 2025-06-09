@@ -1,0 +1,6 @@
+ProductID,Product,Category,Stock,Price
+P001,Mouse,Electronics,25,500
+P002,Keyboard,Electronics,15,800
+P003,Laptop,Electronics,10,55000
+P004,Desk,Furniture,5,7000
+P005,Chair,Furniture,20,3000
