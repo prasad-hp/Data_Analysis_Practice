@@ -1,0 +1,16 @@
+employee_id,employee_name,department,region,sale_date,product_category,product_name,quantity,unit_price,total_amount,customer_id
+101,John Smith,Sales,North,2024-01-15,Electronics,Laptop,2,999.99,1999.98,C001
+102,Sarah Johnson,Sales,South,2024-01-16,Electronics,Phone,1,599.99,599.99,C002
+103,Mike Brown,Sales,East,2024-01-17,Clothing,Shirt,3,29.99,89.97,C003
+101,John Smith,Sales,North,2024-01-18,Electronics,Tablet,1,299.99,299.99,C004
+104,Lisa Davis,Sales,West,2024-01-19,Home,Chair,2,149.99,299.98,C005
+102,Sarah Johnson,Sales,South,2024-01-20,Electronics,Laptop,1,999.99,999.99,C006
+105,Tom Wilson,Sales,North,2024-01-21,Clothing,Pants,2,49.99,99.98,C007
+103,Mike Brown,Sales,East,2024-01-22,Home,Table,1,399.99,399.99,C008
+106,Amy Taylor,Sales,West,2024-01-23,Electronics,Phone,2,599.99,1199.98,C009
+104,Lisa Davis,Sales,West,2024-01-24,Clothing,Dress,1,79.99,79.99,C010
+101,John Smith,Sales,North,2024-02-01,Electronics,Laptop,1,999.99,999.99,C011
+107,David Lee,Sales,South,2024-02-02,Home,Sofa,1,799.99,799.99,C012
+102,Sarah Johnson,Sales,South,2024-02-03,Electronics,Tablet,3,299.99,899.97,C013
+108,Emma White,Sales,East,2024-02-04,Clothing,Jacket,1,129.99,129.99,C014
+105,Tom Wilson,Sales,North,2024-02-05,Electronics,Phone,1,599.99,599.99,C015

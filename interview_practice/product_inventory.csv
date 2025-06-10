@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,cost_price,selling_price,stock_quantity,reorder_level,supplier_id,last_restocked
+P001,Laptop,Electronics,TechBrand,750.00,999.99,45,10,S001,2024-01-10
+P002,Phone,Electronics,PhoneCorp,400.00,599.99,32,15,S002,2024-01-12
+P003,Tablet,Electronics,TechBrand,200.00,299.99,28,8,S001,2024-01-14
+P004,Shirt,Clothing,FashionCo,15.00,29.99,85,20,S003,2024-01-08
+P005,Pants,Clothing,StyleBrand,25.00,49.99,62,15,S004,2024-01-09
+P006,Dress,Clothing,FashionCo,40.00,79.99,23,10,S003,2024-01-11
+P007,Jacket,Clothing,StyleBrand,70.00,129.99,18,8,S004,2024-01-13
+P008,Chair,Home,HomePlus,80.00,149.99,15,5,S005,2024-01-07
+P009,Table,Home,FurnitureCo,250.00,399.99,8,3,S006,2024-01-06
+P010,Sofa,Home,HomePlus,500.00,799.99,4,2,S005,2024-01-05

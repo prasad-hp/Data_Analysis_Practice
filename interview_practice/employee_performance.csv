@@ -1,0 +1,12 @@
+employee_id,employee_name,department,hire_date,salary,performance_score,training_hours,projects_completed,manager_id
+101,John Smith,Sales,2022-03-15,65000,4.2,40,12,201
+102,Sarah Johnson,Sales,2021-07-20,58000,4.5,35,15,201
+103,Mike Brown,Sales,2023-01-10,52000,3.8,25,8,201
+104,Lisa Davis,Sales,2022-11-05,60000,4.1,30,10,202
+105,Tom Wilson,Sales,2021-12-12,63000,4.3,45,14,202
+106,Amy Taylor,Sales,2023-05-18,55000,3.9,20,7,201
+107,David Lee,Sales,2022-09-30,59000,4.0,38,11,202
+108,Emma White,Sales,2023-02-14,53000,4.4,42,9,201
+201,Robert Garcia,Management,2019-01-15,85000,4.6,60,20,301
+202,Jennifer Kim,Management,2020-03-20,82000,4.4,55,18,301
+301,Michael Johnson,Executive,2018-06-10,120000,4.8,70,25,NULL

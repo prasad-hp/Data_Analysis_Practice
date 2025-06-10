@@ -1,0 +1,16 @@
+customer_id,customer_name,age,gender,city,state,registration_date,last_purchase_date,total_purchases,customer_lifetime_value
+C001,Alice Brown,28,Female,New York,NY,2023-06-15,2024-01-15,5,2500.50
+C002,Bob Wilson,35,Male,Los Angeles,CA,2023-03-20,2024-01-16,3,1800.75
+C003,Carol Davis,42,Female,Chicago,IL,2023-08-10,2024-01-17,7,3200.25
+C004,Daniel Lee,31,Male,Houston,TX,2023-05-05,2024-01-18,4,1950.00
+C005,Eva Martinez,26,Female,Phoenix,AZ,2023-09-12,2024-01-19,6,2750.80
+C006,Frank Taylor,39,Male,Philadelphia,PA,2023-04-18,2024-01-20,8,4100.60
+C007,Grace Chen,33,Female,San Antonio,TX,2023-07-22,2024-01-21,5,2300.40
+C008,Henry Johnson,45,Male,San Diego,CA,2023-02-28,2024-01-22,9,4500.25
+C009,Ivy Thompson,29,Female,Dallas,TX,2023-10-15,2024-01-23,3,1650.75
+C010,Jack Robinson,37,Male,San Jose,CA,2023-01-30,2024-01-24,6,3150.90
+C011,Kate Anderson,24,Female,Austin,TX,2023-11-08,2024-02-01,2,1200.30
+C012,Liam Garcia,41,Male,Jacksonville,FL,2023-06-25,2024-02-02,7,3800.50
+C013,Mia Rodriguez,32,Female,Fort Worth,TX,2023-08-14,2024-02-03,4,2100.85
+C014,Noah Martinez,36,Male,Columbus,OH,2023-03-07,2024-02-04,5,2650.40
+C015,Olivia Wilson,30,Female,Charlotte,NC,2023-09-19,2024-02-05,6,2980.70
